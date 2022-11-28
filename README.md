@@ -1,2 +1,3 @@
 # UGR-ASSI-function-for-Vehicle-control-unit-with-tests
-look at previous git commit message or the forum for full detail
+Done, I realise I have uploaded the entire test, however, this is so anyone can instantly pull and run these tests.
+The ASSI function is in the function_lib directory, explained on the UGRForum in full detail
