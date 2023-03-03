@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T12:36:25.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GnPI5f9bf8UiAw4WkJD_" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T12:36:53.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="crdVSEE1i7HBvk96WlsV" version="20.8.20" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2835" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -264,7 +264,7 @@
         <mxCell id="qascLJGQE6xYGhvgeqle-223" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qascLJGQE6xYGhvgeqle-105" target="qascLJGQE6xYGhvgeqle-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qascLJGQE6xYGhvgeqle-105" value="Rear Inverter?" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="qascLJGQE6xYGhvgeqle-105" value="Rear Inverter" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-550" y="465" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="qascLJGQE6xYGhvgeqle-155" value="VCU - STEER_ANGLE_raw" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
